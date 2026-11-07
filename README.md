@@ -1306,6 +1306,7 @@ make this tool possible:
 <a href="https://github.com/tmack8001" title="Trevor Mack"><img src="https://github.com/tmack8001.png?size=64" width="64" height="64" alt="Trevor Mack" /></a>
 <a href="https://github.com/toby-wong" title="Toby Wong"><img src="https://github.com/toby-wong.png?size=64" width="64" height="64" alt="Toby Wong" /></a>
 <a href="https://github.com/TomHermanAmazon" title="TomHermanAmazon"><img src="https://github.com/TomHermanAmazon.png?size=64" width="64" height="64" alt="TomHermanAmazon" /></a>
+<a href="https://github.com/tran-simon" title="Simon Tran"><img src="https://github.com/tran-simon.png?size=64" width="64" height="64" alt="Simon Tran" /></a>
 <a href="https://github.com/trekie86" title="Rob Wolinski"><img src="https://github.com/trekie86.png?size=64" width="64" height="64" alt="Rob Wolinski" /></a>
 <a href="https://github.com/trinayhari" title="Trinayaan Hariharan"><img src="https://github.com/trinayhari.png?size=64" width="64" height="64" alt="Trinayaan Hariharan" /></a>
 <a href="https://github.com/tssalvador" title="Tiago &quot;Salvador&quot; Souza"><img src="https://github.com/tssalvador.png?size=64" width="64" height="64" alt="Tiago &quot;Salvador&quot; Souza" /></a>
@@ -1357,6 +1358,7 @@ make this tool possible:
 <a href="https://github.com/wknight1" title="wknight1"><img src="https://github.com/wknight1.png?size=64" width="64" height="64" alt="wknight1" /></a>
 <a href="https://github.com/wmaillard" title="Will Maillard"><img src="https://github.com/wmaillard.png?size=64" width="64" height="64" alt="Will Maillard" /></a>
 <a href="https://github.com/wooseokdotkim" title="wooseokdotkim"><img src="https://github.com/wooseokdotkim.png?size=64" width="64" height="64" alt="wooseokdotkim" /></a>
+<a href="https://github.com/wu-sheng" title="吴晟 Wu Sheng"><img src="https://github.com/wu-sheng.png?size=64" width="64" height="64" alt="吴晟 Wu Sheng" /></a>
 <a href="https://github.com/wu5bocheng" title="wu5bocheng"><img src="https://github.com/wu5bocheng.png?size=64" width="64" height="64" alt="wu5bocheng" /></a>
 <a href="https://github.com/wundram" title="wundram"><img src="https://github.com/wundram.png?size=64" width="64" height="64" alt="wundram" /></a>
 <a href="https://github.com/wuxinyun" title="wuxinyun"><img src="https://github.com/wuxinyun.png?size=64" width="64" height="64" alt="wuxinyun" /></a>
